@@ -1,10 +1,14 @@
-#Chatbot
+# Chatbot
 
-A simple sustainability chatbot made by me
+Welcome to the **Sustainability Chatbot**! This chatbot was created to help users engage with sustainability topics in a simple and interactive way.
 
-#How to use
+## How to Use
 
-Download the index.html and style.css and run it in VSc
+1. **Download the Files**: Download `index.html` and `style.css` to your local machine.
+2. **Open in VS Code**: Open the downloaded files in Visual Studio Code (VS Code).
+3. **Run the Project**: Use the Live Server extension in VS Code to run the project and see the chatbot in action.
 
-#Ship link
-https://hackclub.slack.com/archives/C0M8PUPU6/p1724774649610179
+## Ship Link
+
+(https://hackclub.slack.com/archives/C0M8PUPU6/p1724774649610179)
+
